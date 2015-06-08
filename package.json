@@ -1,0 +1,12 @@
+{
+  "name": "ijavascript-node-bug",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakubholynet/ijavascript-node-bug.git"
+  },
+  "homepage": "https://github.com/jakubholynet/ijavascript-node-bug",
+  "dependencies": {
+    "lodash": "3.8.0"
+ }
+}
